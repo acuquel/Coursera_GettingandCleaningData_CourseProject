@@ -3,17 +3,11 @@ Code Book - Tidy Set
 "subject"			: number of subject - from 01 t 30                         
 "activity_description"          : one of the six activity possible
 		1 WALKING
-		
-2 WALKING_UPSTAIRS
-		
-3 WALKING_DOWNSTAIRS
-		
-4 SITTING
-
+		2 WALKING_UPSTAIRS
+		3 WALKING_DOWNSTAIRS
+		4 SITTING
 		5 STANDING
-		
-6 LAYING
-
+		6 LAYING
 "tBodyAcc-mean()-X"				- Mean value over each subject and each activity  		            
 "tBodyAcc-mean()-Y"				- Mean value over each subject and each activity               
 "tBodyAcc-mean()-Z"               		- Mean value over each subject and each activity
