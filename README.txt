@@ -28,4 +28,4 @@ README.txt
 CodeBook.txt		: log of all modification performed on teh original dataset. 
 run_analysis.R		: R script used to generate the Tidy set out of the downloaded data. See comments within scripts for explanation.
 TidySet.txt		: the output of "run_analysis.R"
-UCI HAR Dataset		: folder containing the original dataset
+UCI HAR Dataset		: folder containing the description files of the original dataset
