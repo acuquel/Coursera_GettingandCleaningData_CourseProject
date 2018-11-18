@@ -1,6 +1,6 @@
 Code Book - Tidy Set
 
-"subject"			: number of subject - from 01 t 30                         
+"subject"			: number of the test subject - from 01 to 30                         
 "activity_description"          : one of the six activity possible
 		1 WALKING
 		2 WALKING_UPSTAIRS
